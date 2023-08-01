@@ -5,7 +5,6 @@
 #include <Wire.h>
 #include <EEPROM.h>
 #include <LCD5110_Basic.h>
-#include <LiquidCrystal.h> 
 #include <IRremote.h>
 #include <TDA7313.h>
 #include <MsTimer2.h>
