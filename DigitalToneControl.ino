@@ -33,7 +33,6 @@ unsigned long remote_old_key = 0;
 
 //Ekran, ses işlemcisi ve ir alıcının tanımlamalarını yaptık
 LCD5110 myLCD(8, 9, 10, 12, 11);
-LiquidCrystal lcd( 7 , 6 , 2 , 3 , 4 , 5 ) ; // RS,E,D4,D5,D6,D7 
 
 TDA7313 tda;
 
